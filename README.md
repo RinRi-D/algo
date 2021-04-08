@@ -1,7 +1,7 @@
 # Algorithms and Data Structures by RinRi
 
 To-Do:
-- add binary search implementations
+- add more binary search implementations
 - add two pointers implementations
 - add graph algorithms
 - add string algorithms
